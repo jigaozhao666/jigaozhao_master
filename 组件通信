@@ -1,0 +1,5 @@
+1.父传子：props $attr refs $children
+子传父：$emit
+兄弟组件：$parent
+祖代与后代间的传值：provide inject
+任意两组件： 事件总线 或者vuex
